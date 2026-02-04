@@ -9,7 +9,9 @@ Repository to organize the coding material for the course Mineral Exploration Ge
 	- [`inv_magnetics_induced_3d.ipynb`](https://simpeg.xyz/user-tutorials/inv-magnetics-induced-3d/) and;
 	- [`plot_inv_mag_MVI_Sparse_TreeMesh.ipynb`](https://docs.simpeg.xyz/latest/content/user-guide/examples/03-magnetics/plot_inv_mag_MVI_Sparse_TreeMesh.html).
 
-## To install the requirements of this repository, run on your terminal (you can also navigate through the terminal to the directory you want download it):
+## Installation requirements
+
+To install the requirements of this repository, run on your terminal (you can also navigate through the terminal to the directory you want download it):
 
 ```
 git clone https://github.com/marcoutojr/MinExp_Geophy_IAG_USP_2026.git
