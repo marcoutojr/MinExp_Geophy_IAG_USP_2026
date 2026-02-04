@@ -2,7 +2,7 @@
 
 Repository to organize the coding material for the course Mineral Exploration Geophysics IAG Geophysics Summer School 2026
 
-## Material used in this reposity
+## Material used in this repository
 
  - The open-source material used for the Century deposit example comes from the [Transform 2020 tutorial](https://github.com/simpeg/transform-2020-simpeg/tree/main). Only an update to export the inversion results to the [Mira Geoscience Analyst](plot_inv_mag_MVI_Sparse_TreeMesh.ipynb) was made.
  - For the inversion examples in [SimPEG](https://simpeg.xyz/) course, we used open-source material from the [official documentation](https://docs.simpeg.xyz/latest/) and [user tutorials](https://simpeg.xyz/user-tutorials/), namely:
